@@ -1,0 +1,41 @@
+/**
+* @name Midnight Theme
+* @version Auto Update
+* @description An even darker, dark  theme.
+* @author this guy
+* @invite ZHthyCw
+* @Source https://github.com/DiscordStyles/FrostedGlass
+* @website https://betterdiscord.app/theme/Frosted%20Glass
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed');
+:root {
+--background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg');
+--background-image-blur: 0px;
+--background-image-size: contain;
+--background-image-position: center;
+--popout-modal-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/A_black_image.jpg/640px-A_black_image.jpg');
+--popout-modal-blur: 100px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://discordstyles.github.io/FrostedGlass/assets/discord.svg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.7;
+--left-brightness: 0.8;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 60,6,126;
+--gradient-secondary: 13,50,181;
+--gradient-direction: 320deg;
+--tint-colour: 155,21,255;
+--tint-brightness: 0;
+--window-padding: 20px;
+--window-roundness: 15px;
+--scrollbar-colour: #2C2C2CFF;
+--link-colour: #B3AAF4FF;
+--show-gift-gif-buttons: block;
+--font: 'Roboto Condensed';
+--update-notice-1: none;
+}
